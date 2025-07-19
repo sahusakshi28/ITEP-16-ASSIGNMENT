@@ -1,0 +1,10 @@
+class Peri{
+public static void main(String args[]){
+    int l=70;
+    int b;
+    int p;
+    b=2*70/230;
+    System.out.println("breadth of rectangular is",b);
+
+  }
+}
